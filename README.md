@@ -1,5 +1,5 @@
 
-<h2 style="color:#0077cc;"> Ange Martial OGOUDEDJI</h2>
+<h2 style="color:#0077cc;">Ange Martial OGOUDEDJI</h2>
 
 Étudiant ingénieur en génie civil | Calcul de structures | Conception architecturale | Freelance
 
