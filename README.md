@@ -237,6 +237,7 @@ Je souhaite devenir un acteur clé dans la conception d’ouvrages durables, éc
 ## Contact
 
 Email : ah.patrick24@gmail.com
+
 LinkedIn : [ton profil LinkedIn]
 
 Je suis ouvert aux opportunités, collaborations et projets innovants.
