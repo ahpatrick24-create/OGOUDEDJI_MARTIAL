@@ -1,244 +1,174 @@
-
 <h2 style="color:#0077cc;">Ange Martial OGOUDEDJI</h2>
 
 Étudiant ingénieur en génie civil | Calcul de structures | Conception architecturale | Freelance
 
-## À propos de moi
+<h2 style="color:#0077cc;">À propos de moi</h2>
 
 Je suis étudiant en cycle ingénieur en génie civil à l’ENSTP, titulaire d’une licence professionnelle en génie civil et d’un diplôme de technicien supérieur.
 
-J'excelle dans le dimensionnement des structures métalliques,béton armé et bois mais aussi dans l'élaboration des devis quantitatifs et estimatifs.
-Je me spécialise dans le domaine de la géotechnique 
+J’excelle dans le dimensionnement des structures métalliques, béton armé et bois, ainsi que dans l’élaboration des devis quantitatifs et estimatifs.  
+Je me spécialise dans le domaine de la géotechnique.
 
 Mon objectif est de collaborer avec des bureaux d’études, entreprises de construction et particuliers à distance, notamment en soirée et les week-ends, afin de mettre mes compétences au service de projets réels tout en poursuivant ma formation d’ingénieur.
 
 ---
 
-## Objectifs professionnels
+<h2 style="color:#0077cc;">Objectifs professionnels</h2>
 
 * Devenir un expert reconnu en mécanique des structures et en géotechnique.
 * Travailler avec des bureaux d’études internationaux en mode freelance ou remote.
 * Contribuer à des projets innovants et durables en Afrique et à l’international.
 * Développer des solutions techniques adaptées aux contraintes économiques et climatiques locales.
-* Devenir diplomate spécialisé dans les infrastructures et le génie civil afin de participer aux négociations internationales, aux projets de coopération et aux politiques de développement des infrastructures, en favorisant la collaboration entre les pays pour construire des ouvrages sûrs, durables et stratégiques.
+* Devenir diplomate spécialisé dans les infrastructures et le génie civil afin de participer aux négociations internationales et aux politiques de développement des infrastructures.
 
 ---
 
-## Compétences techniques
+<h2 style="color:#0077cc;">Compétences techniques</h2>
 
-### Études et conception
+<h3 style="color:#cc0000;">Études et conception</h3>
 
-* Conception de plans architecturaux
-* Conception des plans de structures
-* Dimensionnement de structures en béton armé, structure métallique et bois
-* Élaboration des devis quantitatifs et estimatifs
+* Conception de plans architecturaux  
+* Conception des plans de structures  
+* Dimensionnement de structures en béton armé, structure métallique et bois  
+* Élaboration des devis quantitatifs et estimatifs  
 
-### Domaines d’intérêt
+<h3 style="color:#cc0000;">Domaines d’intérêt</h3>
 
-* Bâtiments résidentiels et commerciaux
-* Construction durable
-* Géotechnique et fondations
-
----
-
-## Logiciels et outils
-
-### DAO et BIM
-
-* AutoCAD
-* Archicad
-* Revit (en apprentissage)
-
-### Calcul de structures
-
-* Robot Structural Analysis
-* CypeCad
-* Concrete Building Structure (CBS)
-
-### Outils complémentaires
-
-* Excel avancé pour le calcul des quantités et de coût de réalisation d'un ouvrage
-* Word et PowerPoint pour les rapports techniques
-* Outils collaboratifs à distance (Google Drive)
+* Bâtiments résidentiels et commerciaux  
+* Construction durable  
+* Géotechnique et fondations  
 
 ---
 
-## Description de mes projets
+<h2 style="color:#0077cc;">Logiciels et outils</h2>
+
+<h3 style="color:#cc0000;">DAO et BIM</h3>
+
+* AutoCAD  
+* Archicad  
+* Revit (en apprentissage)  
+
+<h3 style="color:#cc0000;">Calcul de structures</h3>
+
+* Robot Structural Analysis  
+* CypeCad  
+* Concrete Building Structure (CBS)  
+
+<h3 style="color:#cc0000;">Outils complémentaires</h3>
+
+* Excel avancé pour le calcul des quantités et des coûts  
+* Word et PowerPoint pour les rapports techniques  
+* Outils collaboratifs à distance (Google Drive)  
+
+---
+
+<h2 style="color:#0077cc;">Description de mes projets</h2>
 
 Cette section présente quelques projets professionnels que je développe progressivement afin de démontrer mes compétences en conception, calcul de structures et optimisation des ouvrages.
 
 Chaque projet met l’accent sur :
 
-* La compréhension du besoin du client ou du cahier des charges
-* L’analyse technique et structurelle
-* La sécurité, la stabilité et la durabilité
-* L’optimisation économique
-* La qualité de la documentation technique
-
-Les projets présentés ici sont en évolution continue et illustrent mon apprentissage, ma rigueur et mon ambition de devenir un ingénieur capable de gérer des projets complexes.
+* La compréhension du besoin du client  
+* L’analyse technique et structurelle  
+* La sécurité et la durabilité  
+* L’optimisation économique  
+* La qualité de la documentation technique  
 
 ---
 
-## Projets réalisés
+<h2 style="color:#0077cc;">Projets réalisés</h2>
 
-### Étude de la structure d’un bâtiment R+1
+<h3 style="color:#cc0000;">Étude de la structure d’un bâtiment R+1</h3>
 
-Projet de construction d'un immeuble de bureaux de type R+1 dont la structure portante est en béton armé et le remplissage en maçonnerie
+Projet de construction d’un immeuble de bureaux de type R+1 en béton armé.
 
 Travaux réalisés :
 
-* Conception des plans de strcutures de chaque niveaux de l'immeuble
-* Modélisation de la structure dans CBS
-* Dimensionnement des éléments en béton armé ( semelles-poteaux-poutres-plancher...)
-* Étude géotechnique et choix du type de fondation
-* Vérification de la stabilité globale
-* Rédaction de la note de calculs
-
-Livrables attendus :
-
-* Plan de fondation et d'implantation
-* Plan de coffrage des différents niveaux ( RDC-Etage..)
-* Détails des éléments porteurs (schéma de feraillage)
-* Note de calculs
+* Conception des plans de structures  
+* Modélisation dans CBS  
+* Dimensionnement des éléments en béton armé  
+* Étude géotechnique et choix des fondations  
+* Vérification de la stabilité  
+* Rédaction de la note de calcul  
 
 Logiciels utilisés :
 
-* ArchiCAD pour la conception des plans
-* CBS pour la modélisation de la strcuture
-* Robot Structural Analysis pour le dimensionnement
-* MS Word pour la rédaction de la note de calcul
+* ArchiCAD  
+* CBS  
+* Robot Structural Analysis  
+* MS Word  
 
-### Étude de la structure d’un bâtiment de type R+0
+---
 
-Projet de construction d’un bâtiment de type R+0 dont la structure portante est en béton armé et en métal (structure mixte)
+<h3 style="color:#cc0000;">Étude de la structure d’un bâtiment R+0 mixte</h3>
+
+Structure en béton armé et métallique.
 
 Travaux réalisés :
 
-* Conception des plans de strcutures 
-* Modélisation et Dimensionnement des éléments métalliques et en béton armé dans CYPECAD
-* Étude géotechnique et choix du type de fondation
-* Vérification de la stabilité globale
-* Rédaction de la note de calculs
-
-Livrables attendus :
-
-* Plan de fondation et d'implantation
-* Plan de chaînage et de couverture
-* Détails des éléments porteurs (schéma de feraillage) et assemblages
-* Note de calculs
-
-Logiciels utilisés :
-
-* ArchiCAD pour la conception des plans
-* CYPECAD pour la modélisation et le dimensionnement
-* MS Word pour la rédaction de la note de calcul
-
-### Étude des plans de détails de quelques éléments d'un immeuble de type R+5
-
-Projet de construction d'un immeuble de type R+5 dont il est question de réaliser les plans de détails de quelques éléments
-
-Travaux réalisés :
-
-* Conception des plans de strcutures 
-* Modélisation et Dimensionnement des éléments métalliques et en béton armé dans CYPECAD
-* Vérification de la stabilité globale
-* Rédaction de la note de calculs
-
-Livrables attendus :
-
-* Détails des éléments  (schéma de feraillage)
-* Note de calculs
-
-Logiciels utilisés :
-
-* CYPECAD pour la modélisation et le dimensionnement
-* MS Word pour la rédaction de la note de calcul
-
-### Étude de la structure d’un bâtiment de type R+0
-
-Projet de construction d'un immeuble de type R+0 dont la structure portante est béton armé (poteaux) et la charpente en bois
-
-Travaux réalisés :
-
-* Conception architecturale selon les besoins du client
-* Conception des plans de structures et couvertures
-* Conception des détails de la ferme en bois
-* Modélisation et Dimensionnement des éléments métalliques et en béton armé dans CYPECAD
-* Vérification de la stabilité globale
-* Rédaction de la note de calculs
-
-Livrables attendus :
-
-* Dossier d'achitecture
-* Plans de fondation et d'implantation
-* Plan de chainâge et de couverture
-* Détails des éléments  bois (assemblages)
-* Note de calculs
-
-Logiciels utilisés :
-
-* AutoCAD pour la conception des plans
-* CYPECAD pour la modélisation et le dimensionnement
-* MS Word pour la rédaction de la note de calcul
-
-### Conception de plans pour particuliers
-
-Projets freelance réalisés :
-
-* Conception de plans architecturaux de maisons individuelles
-* Conception des plans de structures
-* Adaptation aux contraintes du terrain et du budget
-* Optimisation des espaces et des coûts
-* Élaboration de devis quantitatifs et estimatifs
+* Conception des plans de structures  
+* Modélisation et dimensionnement dans CYPECAD  
+* Étude géotechnique  
+* Vérification de la stabilité  
+* Note de calcul  
 
 ---
 
-## Services que je propose
+<h3 style="color:#cc0000;">Plans de détails d’un immeuble R+5</h3>
 
-* Conception de plans architecturaux
-* Conception de plans de structures
-* Étude et calcul de structures
-* Dimensionnement de bâtiments
-* Élaboration de devis quantitatifs et estimatifs
-* Assistance technique à distance
-
-Je suis disponible pour des collaborations à distance avec :
-
-* Bureaux d’études
-* Architectes
-* Entreprises de construction
-* Promoteurs immobiliers
-* Particuliers
+* Conception des détails de ferraillage  
+* Dimensionnement  
+* Vérifications structurelles  
 
 ---
 
-## Méthodologie de travail
+<h3 style="color:#cc0000;">Bâtiment R+0 avec charpente bois</h3>
 
-1. Analyse du besoin et du projet
-2. Proposition technique et optimisation
-3. Étude et calcul détaillé
-4. Vérification de la sécurité et de la conformité
-5. Livraison des plans et rapports
-6. Suivi et ajustements si nécessaire
-
-Je privilégie la rigueur, la communication et la qualité technique.
+* Conception architecturale  
+* Conception des plans de structures  
+* Dimensionnement et détails bois  
+* Modélisation  
 
 ---
 
-## Ambition et vision
+<h3 style="color:#cc0000;">Conception de plans pour particuliers</h3>
 
-Je crois que le génie civil est un levier puissant de transformation sociale.
-Mon ambition est de contribuer à la modernisation des infrastructures africaines et à la résolution des défis liés au logement, aux transports et aux ouvrages publics.
-
-Je souhaite devenir un acteur clé dans la conception d’ouvrages durables, économiques et intelligents.
+* Plans architecturaux  
+* Plans de structures  
+* Optimisation des coûts  
+* Devis quantitatifs  
 
 ---
 
-## Contact
+<h2 style="color:#0077cc;">Services que je propose</h2>
 
-Email : ah.patrick24@gmail.com
+* Conception de plans architecturaux  
+* Conception de plans de structures  
+* Étude et calcul de structures  
+* Dimensionnement  
+* Devis quantitatifs  
+* Assistance technique à distance  
 
-LinkedIn : [ton profil LinkedIn]
+---
 
-Je suis ouvert aux opportunités, collaborations et projets innovants.
+<h2 style="color:#0077cc;">Méthodologie de travail</h2>
 
+1. Analyse du besoin  
+2. Optimisation technique  
+3. Calcul détaillé  
+4. Vérification de la sécurité  
+5. Livraison  
+6. Suivi  
+
+---
+
+<h2 style="color:#0077cc;">Ambition et vision</h2>
+
+Je souhaite contribuer à la modernisation des infrastructures africaines et devenir un acteur clé dans la conception d’ouvrages durables et performants.
+
+---
+
+<h2 style="color:#0077cc;">Contact</h2>
+
+Email : ah.patrick24@gmail.com  
+LinkedIn : [ton profil LinkedIn]  
