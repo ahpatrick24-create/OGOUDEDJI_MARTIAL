@@ -79,7 +79,10 @@ Chaque projet met l’accent sur :
 <h2 style="color:#0077cc;">Projets réalisés</h2>
 
 <h3 style="color:#cc0000;">Étude de la structure d’un bâtiment R+1</h3>
-Voir le rapport du projet ici : https://raw.githubusercontent.com/ahpatrick24-create/OGOUDEDJI_MARTIAL/3b15fb663ef3c3d06fab2b6bb666ac85b12323d4/projet_R%2B1.pdf
+
+Voir le rapport du projet ici : 
+
+https://raw.githubusercontent.com/ahpatrick24-create/OGOUDEDJI_MARTIAL/3b15fb663ef3c3d06fab2b6bb666ac85b12323d4/projet_R%2B1.pdf
 
 Projet de construction d’un immeuble de bureaux de type R+1 en béton armé.
 
