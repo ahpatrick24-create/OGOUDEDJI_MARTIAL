@@ -1,6 +1,25 @@
 title : "OGOUDEDJI Ange Martial"
-logo: img/nny.jpg
-description: "Ange Martial Ogoudédji | Portfolio en Calcul de Structures et Géotechnique"
-show_downloads: true
-theme: jekyll-theme-minimal
+<div class="sidebar">
+
+  <img src="images/photo.jpg" alt="Photo de profil" class="profile-img">
+
+  <h2>OGOUDEDJI Ange Martial</h2>
+
+  <div class="contact-links">
+
+    <a href="mailto:tonemail@gmail.com">
+      📧 Email
+    </a>
+
+    <a href="https://wa.me/229XXXXXXXX">
+      📱 WhatsApp
+    </a>
+
+    <a href="https://www.linkedin.com/in/tonprofil">
+      💼 LinkedIn
+    </a>
+
+  </div>
+
+</div>
 lang: fr
